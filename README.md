@@ -33,6 +33,5 @@ Here are a few ways instructors can integrate this project into coursework:
 
 - [MuJoCo Official Website](https://mujoco.org/) – Multibody physics engine
 - [MuJoCo Playground](https://playground.mujoco.org/) – Interactive demo environment
-- [MuJoCo Playground GitHub Repo](https://github.com/google-deepmind/mujoco_playground)
 - [MuJoCo XLA (MJX)](https://github.com/google-deepmind/mujoco/tree/main/mjx) – JAX-native MuJoCo for machine learning
 - [Unitree H1 Robot Overview](https://www.unitree.com/h1) – Hardware specifications and real-world applications
