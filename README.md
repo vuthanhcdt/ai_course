@@ -1,6 +1,7 @@
 # 🦿 Training the Humanoid Robot H1: A Reinforcement Learning Approach
 
-Welcome to the training project prepared for the *Intelligent Robotics* course, featuring the [Unitree H1](https://www.unitree.com/h1) humanoid robot! This notebook is presented by the [Networked Robotics Systems Laboratory (NRSL)](https://sites.google.com/site/yenchenliuncku) and utilizes the powerful [MuJoCo](https://mujoco.org/) simulation environment developed by Google DeepMind.
+Welcome to the training project prepared for the *Intelligent Robotics* course, focusing on **policy training** through **reinforcement learning** for the [Unitree H1](https://www.unitree.com/h1) humanoid robot! This notebook is presented by the [Networked Robotics Systems Laboratory (NRSL)](https://sites.google.com/site/yenchenliuncku) and utilizes the powerful [MuJoCo](https://mujoco.org/) simulation environment developed by Google DeepMind.
+
 
 The training is built upon the [MuJoCo Playground](https://playground.mujoco.org/) and utilizes the [MuJoCo XLA (MJX)](https://github.com/google-deepmind/mujoco/tree/main/mjx) — a JAX-based implementation of MuJoCo — enabling efficient reinforcement learning (RL) policy training within minutes using a single GPU.
 
